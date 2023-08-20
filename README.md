@@ -1,5 +1,5 @@
-# 💫 About Me:
-Team Vietnam 🇻🇳 FIRST Global<br>Ablaze like a golden star ⭐️
+# 💫 About Us:
+<h1>Team Vietnam 🇻🇳 FIRST Global</h1><br><h1>Ablaze like a golden star ⭐️</h1>
 
 
 ## 🌐 Socials:
