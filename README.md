@@ -1,5 +1,6 @@
 # 💫 About Us:
-<h1>Team Vietnam 🇻🇳 FIRST Global</h1><br><h1>Ablaze like a golden star ⭐️</h1>
+<h1>Team Vietnam 🇻🇳 FIRST Global</h1>
+<h1 style={color: "#ff0000"}>Ablaze like a golden star ⭐️</h1>
 
 
 ## 🌐 Socials:
